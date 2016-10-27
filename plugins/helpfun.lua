@@ -76,7 +76,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 ➖➖➖➖➖➖➖
 Version 2.5 @TeleBeyond
 Team Channel : @BeyondTeam
-Sudo Users :  👤
+Sudo Users : 👤
 @SoLiD021
 @MrHalix
 @idivanmanheb ]]
