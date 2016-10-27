@@ -1,4 +1,4 @@
-# TeleBeyind Version 2.5
+# TeleBeyond Version 2.5
 
 **An Administration bot based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) licensed under the [GNU General Public License](https://github.com/BeyondTeam/TeleBeyond/blob/master/LICENSE)**.
 
