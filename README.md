@@ -41,6 +41,8 @@ Then Enter Your Phone And Confirmation Code
     YourID
   }
 ```
+###سپس توکن ربات هلپر رو در utils وارد کنید
+###اخراش
 #بعد از ان دوباره ربات خود رو لانچ کنید.
 ###Then restart the bot.
 
